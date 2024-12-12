@@ -3,8 +3,7 @@
 - Run latex command under /examples
 
 ```shell
-cd /examples
-xelatex cv.tex && open cv.pdf
+cd examples && xelatex cv.tex && open cv.pdf
 ```
 
 - To be able to make text bold
